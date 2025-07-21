@@ -1,3 +1,5 @@
 cd /d "C:\Users\EFE\Desktop\cs2_host\game\bin\win64"
 start /wait cs2.exe -dedicated -usercon -console -insecure +game_type 0 +game_mode 1 +map de_dust2 +sv_lan 1
 pause
+
+0C4C333A7828962AF71EF5E09AAC6C
