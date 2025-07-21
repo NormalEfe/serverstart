@@ -1,3 +1,3 @@
-cd /d "C:\Users\Can\Desktop\cs2-ds\game\bin\win64"
-cs2.exe -dedicated -usercon -console -dev -insecure +game_type 0 +game_mode 1 +sv_lan 1 +map de_dust2
+cd /d "C:\Users\EFE\Desktop\cs2_host\game\bin\win64"
+start /wait cs2.exe -dedicated -usercon -console -insecure +game_type 0 +game_mode 1 +map de_dust2 +sv_lan 1
 pause
